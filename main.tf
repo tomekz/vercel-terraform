@@ -20,7 +20,7 @@ resource "vercel_project" "vercel-terraform" {
   framework = "nextjs"
   git_repository = {
     type = "github"
-    repo = "tomekz/vercel-terraform"
+    repo = "FelixWaweru/vercel-terraform"
   }
 }
 
